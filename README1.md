@@ -37,16 +37,16 @@
 ## 我的专业是忍术开发
 
 ## 我最喜欢的一段代码
-```python
-def shadow_clone():
-    """影分身之术"""
-    chakra = 1000
-    clones = chakra // 50
-    print(f"已分出{clones}个影分身！")
-    return clones
+dev_skills_env.py中你的代码
+
+    import numpy as np
+    print(np.array([1, 2, 3]) ** 2)
+其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果
 
 我最喜欢的环境管理工具是conda
+
 <img src="https://raw.githubusercontent.com/2679053759/dev_skills/main/环境搭建截图.png" width="800" alt="Conda环境配置截图">
 
 我可以在IDE上使用我建立的虚拟环境
+
 <img src="https://raw.githubusercontent.com/2679053759/dev_skills/main/环境搭建截图2.png" width="800" alt="IDE环境配置截图"> 
