@@ -1,6 +1,6 @@
 # 漩涡鸣人的自我介绍
 
-<img src="https://raw.githubusercontent.com/2679053759/dev_skills/main/漩涡鸣人.png" width="200" alt="漩涡鸣人形象">
+<img src="https://github.com/2679053759/dev_skills/blob/main/%E6%BC%A9%E6%B6%A1%E9%B8%A3%E4%BA%BA.png" width="200" alt="漩涡鸣人形象">
 
 **大家好，我是漩涡鸣人**，*我的身份是木叶忍者村的第七代火影*。以下是我的自我介绍：
 
@@ -45,8 +45,8 @@ dev_skills_env.py中你的代码
 
 我最喜欢的环境管理工具是conda
 
-<img src="https://raw.githubusercontent.com/2679053759/dev_skills/main/环境搭建截图.png" width="800" alt="Conda环境配置截图">
+<img src="https://github.com/2679053759/dev_skills/blob/main/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E6%88%AA%E5%9B%BE.png" width="800" alt="Conda环境配置截图">
 
 我可以在IDE上使用我建立的虚拟环境
 
-<img src="https://raw.githubusercontent.com/2679053759/dev_skills/main/环境搭建截图2.png" width="800" alt="IDE环境配置截图"> 
+<img src="https://github.com/2679053759/dev_skills/blob/main/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E6%88%AA%E5%9B%BE2.png" width="800" alt="IDE环境配置截图"> 
